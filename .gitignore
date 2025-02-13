@@ -1,0 +1,41 @@
+# Python virtual environment
+text2sql/
+venv/
+env/
+.env
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Local development settings
+instance/
+.webassets-cache
+
+# Temporary files
+*.swp
+*.swo
+*~ 
