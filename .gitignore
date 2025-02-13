@@ -1,4 +1,5 @@
 # Python virtual environment
+.venv/
 text2sql/
 venv/
 env/

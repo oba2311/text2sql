@@ -1,0 +1,8 @@
+openai
+langchain
+langchain_community
+sqlalchemy
+python-dotenv
+pandas
+matplotlib
+tabulate
