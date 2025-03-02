@@ -108,7 +108,7 @@ def main():
     )
 
     # Run the agent
-    result = agent.run("How many employees are there?")
+    result = agent.run("Do we have Alice in the database?")
     print(result)
 
 def explore_db(db_path):

@@ -1,6 +1,12 @@
+
+# Cursor rules
+.cursorrules
+
+# workspace
+text2sql.code-workspace
+
 # Python virtual environment
 .venv/
-text2sql/
 venv/
 env/
 .env
@@ -40,3 +46,5 @@ instance/
 *.swp
 *.swo
 *~ 
+SQLite.session.sql
+script.md

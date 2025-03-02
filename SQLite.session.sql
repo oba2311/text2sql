@@ -1,5 +1,2 @@
-SELECT * FROM employees;
 
-SELECT * FROM employees WHERE name = 'Alice';
-
-
+SELECT * from employees WHERE name = "Alice"

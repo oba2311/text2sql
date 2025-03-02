@@ -1,0 +1,9 @@
+{
+	"extends": "stylelint-config-standard",
+	"ignoreFiles": [
+		"**/*.md",
+		"**/*.markdown",
+		"**/*.mermaid",
+		"**/*.cursorrules"
+	]
+}
