@@ -20,7 +20,7 @@ This project demonstrates how to build an AI-powered SQL agent that can convert 
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/oba2311/text2sql
    cd text2sql
    ```
 
@@ -64,5 +64,3 @@ This project demonstrates how to build an AI-powered SQL agent that can convert 
    - Create a sample database
    - Explore data with visualizations
    - Query the database using natural language
-
-### Using the Python Script
