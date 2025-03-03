@@ -2,6 +2,9 @@
 
 This project demonstrates how to build an AI-powered SQL agent that can convert natural language questions into SQL queries using LangChain and OpenAI.
 
+Full walkthrough:
+https://youtu.be/YNbxw_QZ9yI
+
 ## Features
 
 - Natural language to SQL conversion
